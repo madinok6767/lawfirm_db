@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lawfirm_db", "lawfirm_db\lawfirm_db.pyproj", "{574CDBEF-8553-4EDF-A131-E6898EECA2DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{574CDBEF-8553-4EDF-A131-E6898EECA2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574CDBEF-8553-4EDF-A131-E6898EECA2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {811BCF05-A3CF-43B4-8533-C26CFDE3BAD3}
+	EndGlobalSection
+EndGlobal
